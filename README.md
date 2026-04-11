@@ -3,4 +3,4 @@ I hope that these games and future additions are enjoyable for whoever finds the
 My aim for this program is for an offline interactive expeince that engages users cognitive functions
 
 
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/TJsnap7355/Final-Project-C-/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/TJsnap7355/Final-Project-C-)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/TJsnap7355/Final-Project-C-/badge)](https://securityscorecards.dev/viewer/?uri=github.com/TJsnap7355/Final-Project-C-)
