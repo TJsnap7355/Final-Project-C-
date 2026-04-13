@@ -7,7 +7,7 @@ My aim for this program is for an offline interactive expeince that engages user
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/TJsnap7355/Final-Project-C-/badge)](https://securityscorecards.dev/viewer/?uri=github.com/TJsnap7355/Final-Project-C-)
 
-
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/12459/badge)](https://bestpractices.coreinfrastructure.org/projects/12459)
 
 ## Overview
 
@@ -31,7 +31,7 @@ The program is fully offline and uses standard console input and output.
 - Chip tracking across the play session
 - Saves the player name and final chip count to `casino_results.txt`
 
-## Games Included
+## Description
 
 ### Blackjack
 In Blackjack, the player places a wager, receives cards, and chooses whether to hit or stand. Face cards count as 10, aces can adjust from 11 to 1 when needed, and the dealer draws until reaching at least 17.
