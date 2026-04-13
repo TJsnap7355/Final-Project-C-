@@ -8,7 +8,7 @@ My aim for this program is for an offline interactive expeince that engages user
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/TJsnap7355/Final-Project-C-/badge)](https://securityscorecards.dev/viewer/?uri=github.com/TJsnap7355/Final-Project-C-)
 
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/12459/badge)](https://bestpractices.coreinfrastructure.org/projects/12459)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12459/badge)](https://www.bestpractices.dev/projects/12459)
+
 
 ## Overview
 
