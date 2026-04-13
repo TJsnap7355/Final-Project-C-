@@ -60,3 +60,8 @@ cd build
 cmake ..
 cmake --build .
 ./Final_Project_C_
+```
+
+## Testing
+
+Basic manual testing is used to verify functionality.
