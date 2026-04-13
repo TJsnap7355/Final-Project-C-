@@ -27,6 +27,10 @@ To ensure consistency and maintainability, all contributions must follow these g
 - Use meaningful names (avoid single-letter variables unless necessary)
 - Keep functions modular and focused on one task
 
+## Testing Policy
+
+All new features should include testing or validation before merging.
+
 ## Pull Request Guidelines
 
 - Clearly describe what your changes do
